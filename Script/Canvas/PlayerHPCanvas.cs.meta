@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9ad2485152d6e7c4980e06e9484ef85f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabObject: {instanceID: 0}
+  - playerHealthUI: {instanceID: 0}
+  - test: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
